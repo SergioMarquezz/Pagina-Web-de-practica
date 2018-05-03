@@ -1,0 +1,30 @@
+header{
+    
+    background:gray;
+    color: aliceblue;
+    
+}
+
+.main{
+    
+    background: aliceblue;
+}
+
+.color1{
+    
+    background: blue;
+    color:aliceblue;
+}
+
+aside{
+    
+    background: red;
+    color:aliceblue;
+    
+}
+
+footer{
+    
+    background: green;
+    color: aliceblue;
+}
